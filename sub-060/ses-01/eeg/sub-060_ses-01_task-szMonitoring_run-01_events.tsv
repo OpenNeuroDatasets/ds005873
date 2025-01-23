@@ -1,0 +1,5 @@
+onset	duration	eventType	lateralization	localization	vigilance	confidence	channels	dateTime	recordingDuration
+288.00	29.00	sz_foc_a_nm	left	front_cen_par	awake	n/a	n/a	2000-01-01 00:00:00	23529.00
+12246.00	55.00	sz_foc_a_nm	left	front_cen_par	awake	n/a	n/a	2000-01-01 00:00:00	23529.00
+15558.00	50.00	sz_foc_ua_nm	left	front_temp	asleep	n/a	n/a	2000-01-01 00:00:00	23529.00
+15965.00	53.00	sz_foc_ua_nm	left	front_cen_temp	asleep	n/a	n/a	2000-01-01 00:00:00	23529.00

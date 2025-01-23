@@ -1,0 +1,14 @@
+onset	duration	eventType	lateralization	localization	vigilance	confidence	channels	dateTime	recordingDuration
+21663.00	295.00	impd	n/a	n/a	n/a	n/a	n/a	2000-01-01 00:00:00	62060.00
+35594.00	15.00	sz_foc_ia_nm	right	temp	awake	n/a	n/a	2000-01-01 00:00:00	62060.00
+35837.00	10.00	sz_foc_ia_nm	right	un	awake	n/a	n/a	2000-01-01 00:00:00	62060.00
+36044.00	12.00	sz_foc_ia_nm	right	temp	awake	n/a	n/a	2000-01-01 00:00:00	62060.00
+57461.00	13.00	sz_foc_ia_nm	un	un	awake	n/a	n/a	2000-01-01 00:00:00	62060.00
+57603.00	13.00	sz_foc_ia_nm	un	un	awake	n/a	n/a	2000-01-01 00:00:00	62060.00
+57663.00	10.00	sz_foc_ia_nm	un	un	awake	n/a	n/a	2000-01-01 00:00:00	62060.00
+57738.00	13.00	sz_foc_ia_nm	un	un	awake	n/a	n/a	2000-01-01 00:00:00	62060.00
+58087.00	12.00	sz_foc_ia_nm	un	un	awake	n/a	n/a	2000-01-01 00:00:00	62060.00
+58190.00	14.00	sz_foc_ia_nm	un	un	awake	n/a	n/a	2000-01-01 00:00:00	62060.00
+58369.00	15.00	sz_foc_ia_nm	un	un	awake	n/a	n/a	2000-01-01 00:00:00	62060.00
+58652.00	14.00	sz_foc_ia_nm	un	un	awake	n/a	n/a	2000-01-01 00:00:00	62060.00
+59088.00	8.00	sz_foc_ia_nm	un	un	awake	n/a	n/a	2000-01-01 00:00:00	62060.00

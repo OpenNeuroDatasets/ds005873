@@ -1,0 +1,18 @@
+{
+  "MOVReference": "n/a",
+  "SamplingFrequency": 25,
+  "PowerLineFrequency": "n/a",
+  "SoftwareFilters": "n/a",
+
+  "MOVChannelCount": 12,
+  "MOVMontage": "n/a",
+  "MOVPlacementScheme": "Back of the neck (EEG SD) and left chest (ECGEMG SD)",
+  "HardwareFilters": "n/a",
+  "RecordingType": "discontinuous",
+  "RecordingDuration": 20870.00,
+
+  "TaskName": "szMonitoring",
+  "TaskDescription": "Subjects were monitored with a Video-EEG and the SensorDot (Byteflies)",
+  "InstitutionName": "Multi-center European Epileptic Monitoring Units"
+  }
+  

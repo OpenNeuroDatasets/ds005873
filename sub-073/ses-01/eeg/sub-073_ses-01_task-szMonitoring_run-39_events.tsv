@@ -1,0 +1,7 @@
+onset	duration	eventType	lateralization	localization	vigilance	confidence	channels	dateTime	recordingDuration
+539.00	94.00	sz_foc_a_m_hyperkinetic	left	front_temp	awake	n/a	n/a	2000-01-01 00:00:00	15167.00
+782.00	92.00	sz_foc_a_m_hyperkinetic	left	front_temp	awake	n/a	n/a	2000-01-01 00:00:00	15167.00
+5458.00	97.00	sz_foc_a_m_hyperkinetic	left	front_temp	asleep	n/a	n/a	2000-01-01 00:00:00	15167.00
+6751.00	115.00	sz_foc_a_m_hyperkinetic	left	front_temp	awake	n/a	n/a	2000-01-01 00:00:00	15167.00
+10239.00	146.00	sz_foc_f2b	left	front_temp	awake	n/a	n/a	2000-01-01 00:00:00	15167.00
+12677.00	118.00	sz_foc_a_m_hyperkinetic	left	front_temp	asleep	n/a	n/a	2000-01-01 00:00:00	15167.00

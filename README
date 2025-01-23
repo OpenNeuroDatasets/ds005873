@@ -1,0 +1,37 @@
+# README
+
+This dataset is a BIDS compatible version of the SeizeIT2 dataset. It reorganizes the file structure to comply with the BIDS specification. To this effect:
+
+- Metadata was organized according to BIDS.
+- Data in the edf files contains wearable EEG, ECG, EMG and movement data recorded with the Sensor Dot device.
+- Annotations were formatted as BIDS-score compatible `tsv` files.
+
+## Details related to access to the data
+
+### License
+
+The dataset is released under the ...
+
+### Contact person
+
+The dataset was published by [Miguel Bhagubai](miguel.bhagubai@esat.kuleuven.be) and [Christos Chatzichristos](christos.chatzichristos@kuleuven.be).
+
+## Overview
+
+### Project name
+
+SeizeIT2 dataset
+
+### Year that the project ran
+
+2024
+
+### Brief overview of the tasks in the experiment
+
+### Description of the contents of the dataset
+
+## Methods
+
+### Subjects
+
+125 patients with focal epileptic seizures.

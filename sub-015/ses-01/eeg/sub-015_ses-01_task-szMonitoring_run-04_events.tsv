@@ -1,0 +1,4 @@
+onset	duration	eventType	lateralization	localization	vigilance	confidence	channels	dateTime	recordingDuration
+13311.00	19.00	sz_foc_ia_m_tonic	bi	temp	asleep	n/a	n/a	2000-01-01 00:00:00	72621.00
+23038.00	43.00	sz_foc_ia_m_tonic	bi	temp	awake	n/a	n/a	2000-01-01 00:00:00	72621.00
+52473.00	30.00	sz_foc_f2b	left	temp	asleep	n/a	n/a	2000-01-01 00:00:00	72621.00

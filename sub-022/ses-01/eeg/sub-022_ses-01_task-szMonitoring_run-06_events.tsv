@@ -1,0 +1,5 @@
+onset	duration	eventType	lateralization	localization	vigilance	confidence	channels	dateTime	recordingDuration
+19703.00	83.00	sz_foc_ia_m_automatisms	left	temp	awake	n/a	n/a	2000-01-01 00:00:00	77300.00
+27743.00	25.00	sz_foc_ia_m_automatisms	right	temp	awake	n/a	n/a	2000-01-01 00:00:00	77300.00
+34488.00	129.00	impd	n/a	n/a	n/a	n/a	n/a	2000-01-01 00:00:00	77300.00
+55862.00	78.00	impd	n/a	n/a	n/a	n/a	n/a	2000-01-01 00:00:00	77300.00

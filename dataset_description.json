@@ -1,0 +1,16 @@
+{
+    "Name": "BIDS SeizeIT2",
+    "BIDSVersion": "1.8.0",
+    "HEDVersion": "score_1.1.0",
+    "DatasetType": "raw",
+    "License": "OpenNeuro",
+    "Authors": [
+      "Miguel Bhagubai",
+      "Christos Chatzichristos",
+      "Maarten De Vos",
+      "Wim Van Paesschen"
+    ],
+    "HowToAcknowledge": "",
+    "DatasetDOI": ""
+  }
+  

@@ -1,0 +1,13 @@
+onset	duration	eventType	lateralization	localization	vigilance	confidence	channels	dateTime	recordingDuration
+11410.00	9.00	sz_foc_a_m_hyperkinetic	un	un	awake	n/a	n/a	2000-01-01 00:00:00	74072.00
+15928.00	10.00	sz_foc_a_m_hyperkinetic	un	un	awake	n/a	n/a	2000-01-01 00:00:00	74072.00
+30269.00	9.00	sz_foc_a_m_hyperkinetic	un	un	awake	n/a	n/a	2000-01-01 00:00:00	74072.00
+35010.00	7.00	sz_foc_a_m_hyperkinetic	un	un	asleep	n/a	n/a	2000-01-01 00:00:00	74072.00
+35631.00	10.00	sz_foc_a_m_hyperkinetic	un	un	asleep	n/a	n/a	2000-01-01 00:00:00	74072.00
+36044.00	10.00	sz_foc_a_m_hyperkinetic	un	un	asleep	n/a	n/a	2000-01-01 00:00:00	74072.00
+36402.00	9.00	sz_foc_a_m_hyperkinetic	un	un	asleep	n/a	n/a	2000-01-01 00:00:00	74072.00
+37011.00	9.00	sz_foc_ua_nm	un	un	asleep	n/a	n/a	2000-01-01 00:00:00	74072.00
+42268.00	11.00	sz_foc_ua_nm	un	un	asleep	n/a	n/a	2000-01-01 00:00:00	74072.00
+45330.00	10.00	sz_foc_ua_nm	un	un	asleep	n/a	n/a	2000-01-01 00:00:00	74072.00
+61394.00	12.00	sz_foc_ua_nm	un	un	asleep	n/a	n/a	2000-01-01 00:00:00	74072.00
+67186.00	12.00	sz_foc_ua_nm	un	un	asleep	n/a	n/a	2000-01-01 00:00:00	74072.00
