@@ -25,5 +25,8 @@
     "EthicsApprovals": [
         "UZ Leuven ethics committee (S67350 - amendment 1)",
         "UZ Leuven ethics committee (S63631)"
+    ],
+    "ReferencesAndLinks": [
+        "https://github.com/biomedepi/seizeit2"
     ]
 }
