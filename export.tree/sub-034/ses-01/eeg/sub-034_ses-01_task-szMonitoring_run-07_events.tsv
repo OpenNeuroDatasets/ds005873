@@ -1,9 +1,0 @@
-onset	duration	eventType	lateralization	localization	vigilance	confidence	channels	dateTime	recordingDuration
-1636.00	195.00	impd	n/a	n/a	n/a	n/a	n/a	2000-01-01 00:00:00	67381.00
-26539.00	130.00	impd	n/a	n/a	n/a	n/a	n/a	2000-01-01 00:00:00	67381.00
-47994.00	9.00	sz_foc_ia_m_hyperkinetic	un	front	awake	n/a	n/a	2000-01-01 00:00:00	67381.00
-50359.00	14.00	sz_foc_ia_m_hyperkinetic	un	front	asleep	n/a	n/a	2000-01-01 00:00:00	67381.00
-52019.00	32.00	sz_foc_ia_m_hyperkinetic	un	front	asleep	n/a	n/a	2000-01-01 00:00:00	67381.00
-54651.00	19.00	sz_foc_ia_m_hyperkinetic	un	front	awake	n/a	n/a	2000-01-01 00:00:00	67381.00
-56463.00	28.00	sz_foc_ia_m_hyperkinetic	un	front	asleep	n/a	n/a	2000-01-01 00:00:00	67381.00
-66142.00	17.00	sz_foc_ia_m_hyperkinetic	un	front	awake	n/a	n/a	2000-01-01 00:00:00	67381.00
