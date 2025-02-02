@@ -1,0 +1,5 @@
+onset	duration	eventType	lateralization	localization	vigilance	confidence	channels	dateTime	recordingDuration
+39095.00	35.00	sz_foc_a_um	un	un	awake	n/a	n/a	2000-01-01 00:00:00	73117.00
+56763.00	9.00	sz_foc_a_um	un	un	awake	n/a	n/a	2000-01-01 00:00:00	73117.00
+63217.00	15.00	sz_foc_a_um	un	un	awake	n/a	n/a	2000-01-01 00:00:00	73117.00
+63592.00	340.00	sz_foc_a_um	un	un	awake	n/a	n/a	2000-01-01 00:00:00	73117.00

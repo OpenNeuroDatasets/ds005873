@@ -1,0 +1,157 @@
+{
+    "onset": {
+        "Description": "Start time of the event relative to the beginning of the recording in seconds.",
+        "Type": "object",
+        "Units": "seconds"
+    },
+
+    "duration": {
+        "Description": "Duration of the event in seconds.",
+        "Type": "object",
+        "Units": "seconds"
+    },
+
+    "eventType": {
+        "Description": "Description of the event",
+        "Type": "object",
+        "Levels": {
+            "bckg": "Refers to an epoch of data that does not contain an epileptic seizure.",
+            "impd": "Refers to an epoch of data that was recorded during an impedance control check (likely to be artifactual)",
+            "sz": "Referring to a seizure type that cannot be described by the ILAE 2017 classification either because of inadequate information or unusual clinical features.",
+            "sz_foc": "Focal seizure with unknown or unreported awareness",
+            "sz_foc_a": "Focal aware seizure",
+            "sz_foc_a_m": "Focal aware motor seizure",
+            "sz_foc_a_m_automatisms": "Focal aware motor seizure with automatisms (more or less coordinated, purposeless, repetitive motor activity)",
+            "sz_foc_a_m_atonic": "Focal aware motor seizure with atonic activity (focal loss of tone)",
+            "sz_foc_a_m_clonic": "Focal aware motor seizure with clonic activity (focal rhythmic jerking)",
+            "sz_foc_a_m_spasms": "Focal aware motor seizure with spasms",
+            "sz_foc_a_m_hyperkinetic": "Focal aware motor seizure with hyperkinetic activity (pedaling, thrashing)",
+            "sz_foc_a_m_myoclonic": "Focal aware motor seizure with myoclonic activity (irregular, brief focal jerking)",
+            "sz_foc_a_m_tonic": "Focal aware motor seizure with tonic activity (sustained focal stiffening)",
+            "sz_foc_a_nm": "Focal aware non-motor seizure",
+            "sz_foc_a_nm_autonomic": "Focal aware non-motor seizure with autonomic effects such as gastrointestinal sensations, a sense of heat or cold, flushing, piloerection (goosebumps), palpitations, sexual arousal, respiratory changes, or other autonomic effects",
+            "sz_foc_a_nm_behavior": "Focal aware non-motor seizure with behavior arrest involving cessation of movement and unresponsiveness as the predominant aspect of the entire seizure.",
+            "sz_foc_a_nm_cognitive": "Focal aware non-motor seizure with cognitive disfunction such as deficits in language, thinking or associated higher cortical functions",
+            "sz_foc_a_nm_emotional": "Focal aware non-motor seizure with emotional arrest",
+            "sz_foc_a_nm_sensory": "Focal aware non-motor seizure with somatosensory, olfactory, visual, auditory, gustatory, hot–cold sense, or vestibular sensations",
+            "sz_foc_a_um": "Focal aware seizure with unknown or unreported motor clinical features",
+            "sz_foc_ia": "Focal impaired-awareness seizure",
+            "sz_foc_ia_m": "Focal impaired-awareness motor seizure",
+            "sz_foc_ia_m_automatisms": "Focal impaired-awareness motor seizure with automatisms (more or less coordinated, purposeless, repetitive motor activity)",
+            "sz_foc_ia_m_atonic": "Focal impaired-awareness motor seizure with atonic activity (focal loss of tone)",
+            "sz_foc_ia_m_clonic": "Focal impaired-awareness motor seizure with clonic activity (focal rhythmic jerking)",
+            "sz_foc_ia_m_spasms": "Focal impaired-awareness motor seizure with spasms",
+            "sz_foc_ia_m_hyperkinetic": "Focal impaired-awareness motor seizure with hyperkinetic activity (pedaling, thrashing)",
+            "sz_foc_ia_m_myoclonic": "Focal impaired-awareness motor seizure with myoclonic activity (irregular, brief focal jerking)",
+            "sz_foc_ia_m_tonic": "Focal impaired-awareness motor seizure with tonic activity (sustained focal stiffening)",
+            "sz_foc_ia_nm": "Focal impaired-awareness non-motor seizure",
+            "sz_foc_ia_nm_autonomic": "Focal impaired-awareness non-motor seizure with autonomic effects such as gastrointestinal sensations, a sense of heat or cold, flushing, piloerection (goosebumps), palpitations, sexual arousal, respiratory changes, or other autonomic effects",
+            "sz_foc_ia_nm_behavior": "Focal impaired-awareness non-motor seizure with behavior arrest involving cessation of movement and unresponsiveness as the predominant aspect of the entire seizure.",
+            "sz_foc_ia_nm_cognitive": "Focal impaired-awareness non-motor seizure with cognitive disfunction such as deficits in language, thinking or associated higher cortical functions",
+            "sz_foc_ia_nm_emotional": "Focal impaired-awareness non-motor seizure with emotional arrest",
+            "sz_foc_ia_nm_sensory": "Focal impaired-awareness non-motor seizure with somatosensory, olfactory, visual, auditory, gustatory, hot–cold sense, or vestibular sensations",
+            "sz_foc_ia_um": "Focal impaired-awareness seizure with unknown or unreported motor clinical features",
+            "sz_foc_ua_m": "Focal unknown-awareness motor seizure",
+            "sz_foc_ua_m_automatisms": "Focal unknown-awareness motor seizure with automatisms (more or less coordinated, purposeless, repetitive motor activity)",
+            "sz_foc_ua_m_atonic": "Focal unknown-awareness motor seizure with atonic activity (focal loss of tone)",
+            "sz_foc_ua_m_clonic": "Focal unknown-awareness motor seizure with clonic activity (focal rhythmic jerking)",
+            "sz_foc_ua_m_spasms": "Focal unknown-awareness motor seizure with spasms",
+            "sz_foc_ua_m_hyperkinetic": "Focal unknown-awareness motor seizure with hyperkinetic activity (pedaling, thrashing)",
+            "sz_foc_ua_m_myoclonic": "Focal unknown-awareness motor seizure with myoclonic activity (irregular, brief focal jerking)",
+            "sz_foc_ua_m_tonic": "Focal unknown-awareness motor seizure with tonic activity (sustained focal stiffening)",
+            "sz_foc_ua_nm": "Focal unknown-awareness non-motor seizure",
+            "sz_foc_ua_nm_autonomic": "Focal unknown-awareness non-motor seizure with autonomic effects such as gastrointestinal sensations, a sense of heat or cold, flushing, piloerection (goosebumps), palpitations, sexual arousal, respiratory changes, or other autonomic effects",
+            "sz_foc_ua_nm_behavior": "Focal unknown-awareness non-motor seizure with behavior arrest involving cessation of movement and unresponsiveness as the predominant aspect of the entire seizure.",
+            "sz_foc_ua_nm_cognitive": "Focal unknown-awareness non-motor seizure with cognitive disfunction such as deficits in language, thinking or associated higher cortical functions",
+            "sz_foc_ua_nm_emotional": "Focal unknown-awareness non-motor seizure with emotional arrest",
+            "sz_foc_ua_nm_sensory": "Focal unknown-awareness non-motor seizure with somatosensory, olfactory, visual, auditory, gustatory, hot–cold sense, or vestibular sensations",
+            "sz_foc_ua_um": "Focal unknown-awareness seizure with unknown or unreported motor clinical features",
+            "sz_foc_f2b": "Focal onset seizure that propagates to a bilateral tonic–clonic seizure",
+            "sz_gen": "Generalized seizure",
+            "sz_gen_m": "Generalized seizure with motor activity",
+            "sz_gen_m_tonicClonic": "Generalized tonic-clonic seizure",
+            "sz_gen_m_clonic": "Generalized clonic seizure (begin, progress, and end with sustained rhythmic jerking of limbs on both sides of the body and often head, neck, face, and trunk)",
+            "sz_gen_m_tonic": "Generalized tonic seizure (bilateral limb stiffening or elevation, often with neck stiffening). The classification presumes that the tonic activity is not followed by clonic movements.",
+            "sz_gen_m_myoTC": "Generalized myoclonic–tonic–clonic seizure (begin with a few myoclonic jerks followed by tonic–clonic activity)",
+            "sz_gen_m_myoAtonic": "Generalized myoclonic–atonic seizure (brief jerking of limbs or trunk, followed by a limp drop)",
+            "sz_gen_m_atonic": "Generalized atonic seizure",
+            "sz_gen_m_spasms": "Generalized seizure with spasms",
+            "sz_gen_nm": "Generalized seizure with no motor activity (varieties of absence seizures)",
+            "sz_gen_nm_typical": "Typical absence seizure",
+            "sz_gen_nm_atypical": "Atypical absence seizure (associated with changes in tone that are more pronounced than in typical absence or the onset or cessation is not abrupt)",
+            "sz_gen_nm_myoclonic": "Myoclonic absence seizure (rhythmic three-per-second myoclonic movements)",
+            "sz_gen_nm_eyelidMyio": "Absence seizure with eyelid myoclonia (myoclonic jerks of the eyelids and upward deviation of the eyes, often precipitated by closing the eyes or by light)",
+            "sz_uo": "Seizure with unknown or unreported onset",
+            "sz_uo_m": "Motor seizure with unknown or unreported onset",
+            "sz_uo_m_myoclonic": "Myoclonic (irregular, brief focal jerking) seizure with unknown or unreported onset",
+            "sz_uo_m_tonicClonic": "Tonic-clonic seizure with unknown or unreported onset",
+            "sz_uo_m_tonicMyio": "Tonic-myoclonic seizure with unknown or unreported onset",
+            "sz_uo_m_hyperkinetic": "Motor seizure with unknown or unreported onset with hyperkinetic activity (pedaling, thrashing)",
+            "sz_uo_m_spasms": "Seizure with unknown or unreported onset with spasms",
+            "sz_uo_nm": "Non-motor seizure with unknown or unreported onset",
+            "sz_uo_nm_behavior": "Non-motor seizure with behavioural activity and unknown or unreported onset"
+        }
+    },
+
+    "lateralization": {
+        "Description": "Cerebral hemisphere of the source of the seizure",
+        "Type": "object",
+        "Levels": {
+            "left": "Seizure onset on the left hemisphere",
+            "right": "Seizure onset on the right hemisphere",
+            "bi": "Seizure onset on both left and right hemispheres",
+            "un": "Unknown seizure onset lateralization"
+        }
+    },
+
+    "localization": {
+        "Description": "Cerebral lobe of the source of the seizure (if the seizure is focal)",
+        "Type": "object",
+        "Levels": {
+            "front": "Seizure onset in the frontal lobe",
+            "front_temp": "Seizure onset in the fronto-temporal lobe",
+            "front_cen": "Seizure onset in the fronto-central lobe",
+            "front_cen_temp": "Seizure onset in the fronto-central-temporal lobe",
+            "front_cen_par": "Seizure onset in the fronto-central-parietal lobe",
+            "temp": "Seizure onset in the temporal lobe",
+            "temp_occ": "Seizure onset in the temporo-occipital lobe",
+            "temp_par": "Seizure onset in the temporo-parietal lobe",
+            "temp_par_occ": "Seizure onset in the temporo-parieto-occipital lobe",
+            "cen": "Seizure onset in the central lobe",
+            "cen_par": "Seizure onset in the centro-parietal lobe",
+            "cen_temp": "Seizure onset in the centro-temporal lobe",
+            "cen_temp_par": "Seizure onset in the centro-temporo-parietal lobe",
+            "occ": "Seizure onset in the occipital lobe",
+            "occ_par": "Seizure onset in the occipito-parietal lobe",
+            "par": "Seizure onset in the parietal lobe",
+            "par_temp": "Seizure onset in the parieto-temporal lobe",
+            "ins": "Seizure onset in the insula",
+            "un": "Unknown seizure onset location"
+        }
+    },
+
+    "vigilance": {
+        "Description": "State of the patient (awake or asleep) during seizure",
+        "Type": "object",
+        "Levels": {
+            "awake": "Subject is awake during seizure",
+            "asleep": "Subject is asleep during seizure",
+            "un": "Unknown vigilance during seizure"
+        }
+    },
+
+    "confidence": {
+        "Description": "Confidence of the event label in the range 0-1. The value can be provided by the humand annotator or an automated machine learning annotator",
+        "HED": "Statistical-uncertainty/#"
+    },
+
+    "dateTime": {
+        "Description": "Start date-time of the recording",
+        "HED": "Creation-date/#"
+    },
+
+    "recordingDuration": {
+        "Description": "Duration of the recording in seconds",
+        "HED": "Recording/#"
+    }
+}

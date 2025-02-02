@@ -1,0 +1,4 @@
+onset	duration	eventType	lateralization	localization	vigilance	confidence	channels	dateTime	recordingDuration
+5511.00	0.00	impd	n/a	n/a	n/a	n/a	n/a	2000-01-01 00:00:00	65427.00
+5521.00	119.00	impd	n/a	n/a	n/a	n/a	n/a	2000-01-01 00:00:00	65427.00
+41171.00	14.00	sz_foc_a_m_hyperkinetic	right	ins	asleep	n/a	n/a	2000-01-01 00:00:00	65427.00
