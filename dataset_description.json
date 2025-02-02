@@ -1,5 +1,5 @@
 {
-    "Name": "SeizeIT2: Wearable Data of Patients With Focal Epilepsy",
+    "Name": "SeizeIT2: Wearable Dataset of Patients with Focal Epilepsy",
     "BIDSVersion": "1.8.0",
     "HEDVersion": "score_1.1.0",
     "DatasetType": "raw",
