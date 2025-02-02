@@ -3,14 +3,22 @@
     "BIDSVersion": "1.8.0",
     "HEDVersion": "score_1.1.0",
     "DatasetType": "raw",
-    "License": "OpenNeuro",
+    "License": "CC0",
     "Authors": [
-      "Miguel Bhagubai",
-      "Christos Chatzichristos",
-      "Maarten De Vos",
-      "Wim Van Paesschen"
+        "Miguel Bhagubai",
+        "Christos Chatzichristos",
+        "Lauren Swinnen",
+        "Jaiver Macea",
+        "Jingwei Zhang",
+        "Lieven Lagae",
+        "Katrien Jansen",
+        "Andreas Schulze-Bonhage",
+        "Francisco Sales",
+        "Benno Mahler",
+        "Yvonne Weber",
+        "Wim Van Paesschen",
+        "Maarten De Vos"
     ],
     "HowToAcknowledge": "",
     "DatasetDOI": ""
-  }
-  
+}
