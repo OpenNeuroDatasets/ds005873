@@ -1,0 +1,32 @@
+{
+    "Name": "SeizeIT2",
+    "BIDSVersion": "1.8.0",
+    "HEDVersion": "score_1.1.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Miguel Bhagubai",
+        "Christos Chatzichristos",
+        "Lauren Swinnen",
+        "Jaiver Macea",
+        "Jingwei Zhang",
+        "Lieven Lagae",
+        "Katrien Jansen",
+        "Andreas Schulze-Bonhage",
+        "Francisco Sales",
+        "Benno Mahler",
+        "Yvonne Weber",
+        "Wim Van Paesschen",
+        "Maarten De Vos  "
+    ],
+    "HowToAcknowledge": "",
+    "DatasetDOI": "doi:10.18112/openneuro.ds005873.v1.0.1",
+    "Acknowledgements": "We would like to acknowledge all clinicians who were involved in gathering the data and all researchers, mainly Thomas\nStrypsteen, Maarten Vanmarcke and Anna Martens, who aided in the development and validation of the shared code.\nThis work was funded by the European Union under the H2020-OTHER-EIT-HEALTH program (19263); Bijzonder\nOnderzoeksfonds (BOF) KU Leuven: “Prevalence of Epilepsy and Sleep Disturbances in Alzheimer Disease” (C24/18/097);\nStrategic basic research grant by Research Foundation Flanders (FWO) (for M. Bhagubai—1SB5922N); Research Foundation\nFlanders (FWO) Research Project, “Deep, personalized epileptic seizure detection” (G0D8321N); the Flemish Government (AI\nResearch Program); M. De Vos, M. Bhagubai and C. Chatzichristos are affiliated to Leuven.AI - KU Leuven institute for AI,\nB-3000, Leuven, Belgium.",
+    "EthicsApprovals": [
+        "UZ Leuven ethics committee (S67350 - amendment 1)",
+        "UZ Leuven ethics committee (S63631)"
+    ],
+    "ReferencesAndLinks": [
+        "https://github.com/biomedepi/seizeit2"
+    ]
+}

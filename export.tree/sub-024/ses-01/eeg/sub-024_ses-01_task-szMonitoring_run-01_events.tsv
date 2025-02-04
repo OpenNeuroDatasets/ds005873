@@ -1,0 +1,4 @@
+onset	duration	eventType	lateralization	localization	vigilance	confidence	channels	dateTime	recordingDuration
+23986.00	6.00	impd	n/a	n/a	n/a	n/a	n/a	2000-01-01 00:00:00	77772.00
+24441.00	6.00	impd	n/a	n/a	n/a	n/a	n/a	2000-01-01 00:00:00	77772.00
+33583.00	170.00	sz_foc_f2b	right	front	awake	n/a	n/a	2000-01-01 00:00:00	77772.00
