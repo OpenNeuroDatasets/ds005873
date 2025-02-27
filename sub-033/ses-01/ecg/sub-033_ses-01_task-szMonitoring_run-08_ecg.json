@@ -1,18 +1,15 @@
 {
-  "ECGReference": "n/a",
-  "SamplingFrequency": 256,
-  "PowerLineFrequency": "n/a",
-  "SoftwareFilters": "n/a",
-
-  "ECGChannelCount": 1,
-  "ECGMontage": "n/a",
-  "ECGPlacementScheme": "Single channel with chest electrodes",
-  "HardwareFilters": "n/a",
-  "RecordingType": "discontinuous",
-  "RecordingDuration": 77466.00,
-
-  "TaskName": "szMonitoring",
-  "TaskDescription": "Subjects were monitored with a Video-EEG and the SensorDot (Byteflies)",
-  "InstitutionName": "Multi-center European Epileptic Monitoring Units"
-  }
-  
+    "ECGReference": "n/a",
+    "SamplingFrequency": 256,
+    "PowerLineFrequency": "n/a",
+    "SoftwareFilters": "n/a",
+    "ECGChannelCount": 1,
+    "ECGMontage": "n/a",
+    "ECGPlacementScheme": "Single channel with chest electrodes",
+    "HardwareFilters": "n/a",
+    "RecordingType": "discontinuous",
+    "RecordingDuration": 77427.0,
+    "TaskName": "szMonitoring",
+    "TaskDescription": "Subjects were monitored with a Video-EEG and the SensorDot (Byteflies)",
+    "InstitutionName": "Multi-center European Epileptic Monitoring Units"
+}
