@@ -1,18 +1,15 @@
 {
-  "EMGReference": "n/a",
-  "SamplingFrequency": 256,
-  "PowerLineFrequency": "n/a",
-  "SoftwareFilters": "n/a",
-
-  "EMGChannelCount": 1,
-  "EMGMontage": "n/a",
-  "EMGPlacementScheme": "Single channel with electrodes on the left deltoid muscle",
-  "HardwareFilters": "n/a",
-  "RecordingType": "discontinuous",
-  "RecordingDuration": 3525.00,
-
-  "TaskName": "szMonitoring",
-  "TaskDescription": "Subjects were monitored with a Video-EEG and the SensorDot (Byteflies)",
-  "InstitutionName": "Multi-center European Epileptic Monitoring Units"
-  }
-  
+    "EMGReference": "n/a",
+    "SamplingFrequency": 256,
+    "PowerLineFrequency": "n/a",
+    "SoftwareFilters": "n/a",
+    "EMGChannelCount": 1,
+    "EMGMontage": "n/a",
+    "EMGPlacementScheme": "Single channel with electrodes on the left deltoid muscle",
+    "HardwareFilters": "n/a",
+    "RecordingType": "discontinuous",
+    "RecordingDuration": 3521.0,
+    "TaskName": "szMonitoring",
+    "TaskDescription": "Subjects were monitored with a Video-EEG and the SensorDot (Byteflies)",
+    "InstitutionName": "Multi-center European Epileptic Monitoring Units"
+}
