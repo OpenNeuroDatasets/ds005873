@@ -1,0 +1,15 @@
+{
+    "EEGReference": "n/a",
+    "SamplingFrequency": 256,
+    "PowerLineFrequency": "n/a",
+    "SoftwareFilters": "n/a",
+    "EEGChannelCount": 2,
+    "EEGMontage": "right",
+    "EEGPlacementScheme": "behind-the-ear",
+    "HardwareFilters": "n/a",
+    "RecordingType": "discontinuous",
+    "RecordingDuration": 36378.0,
+    "TaskName": "szMonitoring",
+    "TaskDescription": "Subjects were monitored with a Video-EEG and the SensorDot (Byteflies)",
+    "InstitutionName": "Multi-center European Epileptic Monitoring Units"
+}
